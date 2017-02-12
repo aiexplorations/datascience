@@ -1,7 +1,7 @@
 # Data Science
 A collection of code in R and Python specific to Data Science. Numerous topics in data analysis, statistical inference and machine learning are covered cursorily. 
 
-Created by Rajesh RS ( https://twitter.com/rexplorations / https://in.linked.com/in/rajeshrs )
+Created by Rajesh RS ( https://twitter.com/rexplorations / https://www.linkedin.com/in/rajeshrs )
 
 This code repository is of course no substitute to a formal course in these topics, or a good book but you could learn about how the implementation of algorithms can be done using Python and R libraries.
 
